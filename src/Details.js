@@ -25,7 +25,10 @@ export const personalDetails = {
   name: "Veerapathiran E",
   tagline: "Java Full Stack Developer",
   img: profile,
-  about: `Java Developer with well-structured understanding of Core Java and Advanced Java. Familiar with DSA fundamentals and problem-solving, with strong adaptability to learning new technologies.`,
+  about: `Java Developer with strong understanding of Core & Advanced Java and DSA-based problem-solving.
+Skilled in database management and SQL.
+Experienced in building complete web applications, including a Swiggy food delivery app clone.
+Highly adaptable and eager to learn and work with new technologies.`,
 };
 
 // Social Media
@@ -84,16 +87,19 @@ export const projectDetails = [
   {
     title: "Optimized Job Search Engine",
     image: projectImage1,
-    description: "Built using Java with efficient searching.",
-    techstack: "Java",
+    description:
+      "Developed a job search engine using Java with keyword search, indexing, and dynamic ranking using PriorityQueue. Implemented frequency-based scoring and optimized retrieval using HashMap and ArrayList.",
+    techstack: "Java, Collections Framework, Data Structures ",
     githubLink: "https://github.com/VeerapathiranE/optimized-job-search-engine",
   },
   {
     title: "Portfolio Website",
     image: projectImage2,
-    description: "Responsive portfolio.",
-    techstack: "HTML, CSS",
-    githubLink: "https://github.com/VeerapathiranE/",
+    description:
+      "Designed and developed a responsive portfolio website using HTML, CSS, and JavaScript to showcase projects and skills.",
+    techstack: "HTML, CSS, JavaScript",
+    githubLink: "https://github.com/VeerapathiranE/developer-portfolio",
+    previewLink: "https://veerapathirane.github.io/developer-portfolio/",
   },
 ];
 
