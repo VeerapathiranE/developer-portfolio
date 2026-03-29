@@ -23,11 +23,8 @@ A modern, responsive portfolio website built to showcase my profile, projects, a
 - JavaScript
 - React
 
----
-
-## 📸 Preview
-
-![Portfolio Preview](./preview.gif)
+---Live
+https://veerapathirane.github.io/developer-portfolio/
 
 ---
 
