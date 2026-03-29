@@ -35,7 +35,7 @@ Highly adaptable and eager to learn and work with new technologies.`,
 export const socialMediaUrl = {
   linkedin: "https://www.linkedin.com/in/veerapathiran352003/",
   github: "https://github.com/VeerapathiranE/",
-  resume: "/resume.pdf", // put resume.pdf inside public folder
+  resume: `${process.env.PUBLIC_URL}/resume.pdf`,
 };
 
 // ✅ WORK DETAILS (IMPORTANT - FIX ERROR)

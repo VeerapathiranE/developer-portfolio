@@ -38,10 +38,11 @@ function Contact() {
       </div>
 
       {/* RESUME BUTTON */}
+      {/* RESUME BUTTON */}
       <div className="mt-8">
         <a
-          href={resume}
-          download
+          href={socialMediaUrl.resume}
+          download="Veerapathiran_Resume.pdf"
           className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-6 py-3 rounded-lg shadow-md hover:scale-105 transition duration-300"
         >
           Download Resume
