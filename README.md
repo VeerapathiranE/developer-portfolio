@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built to showcase my profile, projects, and contact information in a clean and minimal way.
 
+---Live
+https://veerapathirane.github.io/developer-portfolio/
 ---
 
 ## ✨ Highlights
@@ -22,9 +24,6 @@ A modern, responsive portfolio website built to showcase my profile, projects, a
 - CSS3
 - JavaScript
 - React
-
----Live
-https://veerapathirane.github.io/developer-portfolio/
 
 ---
 
